@@ -15,7 +15,7 @@ from .._tweedledum import classical
 
 
 class BoolFunction(object):
-    """Class to represent a Boolean function
+    r"""Class to represent a Boolean function
 
     Formally, a Boolean function is a mapping :math:`f : {0, 1}^n \to {0, 1}^m`,
     where :math:`n`(:math:`m`) is the number of inputs(outputs).  There are
